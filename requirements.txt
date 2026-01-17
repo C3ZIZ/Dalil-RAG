@@ -1,0 +1,12 @@
+python-dotenv
+pypdf
+streamlit
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-llms-openai-like
+llama-index-vector-stores-chroma
+chromadb
+
+sentence-transformers
+torch
+
