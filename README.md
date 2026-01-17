@@ -2,7 +2,7 @@
 title: Dalil-RAG
 emoji: 🤖
 colorFrom: red
-colorTo: grey
+colorTo: gray
 sdk: streamlit
 sdk_version: 1.25.0
 app_file: app.py
